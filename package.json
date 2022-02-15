@@ -1,7 +1,7 @@
 {
   "name": "dev-cover",
   "version": "0.0.1",
-  "description": "🌐 Get and publish your developer portfolio with just your username",
+  "description": "🌐 仅使用您的用户名即可获取并发布您的开发者作品集",
   "keywords": [
     "react",
     "portfolio",
@@ -9,7 +9,7 @@
     "graphql",
     "github"
   ],
-  "author": "jrgarciadev",
+  "author": "dstansice",
   "license": "MIT",
   "scripts": {
     "dev": "next dev",
